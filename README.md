@@ -2,7 +2,9 @@
 
 Hey there 👋,
 
-this is a simple code for a **Sticky-notes App**. You can create your custom notes! See here👇:
+this is a simple code for a **Sticky-notes App**. You can create your custom notes, available [here](https://noteaddapp.netlify.com/)! 
+
+See here👇:
 
 <img src="https://i.gyazo.com/c011eae5d192de2c7818d0db61817c7d.gif">
 
