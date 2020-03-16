@@ -1,19 +1,11 @@
-# notesapp
+# NoteAddApp
 
-## Project setup
-```
-npm install
-```
+Hey there 👋,
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+this is a simple code for a **Sticky-notes App**. You can create your custom notes! See here👇:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img src="https://i.gyazo.com/c011eae5d192de2c7818d0db61817c7d.gif">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Warning
+
+It is not permitted to use this code for any commercial use cases. Recognition of the author (me) is mandatory if used.
